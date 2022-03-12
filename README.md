@@ -1,2 +1,3 @@
-# miscelaneous_py
-Some small projects done with online tutorials 
+# Simple Python whatsapp message sender
+
+A small message sender project done with python and twilio.rest library
